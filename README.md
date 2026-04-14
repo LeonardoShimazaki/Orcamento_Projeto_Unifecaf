@@ -3,7 +3,7 @@
 # 🏠 Sistema de Orçamento de Locação
 
 ## 📌 Descrição
-Este projeto consiste em um sistema desenvolvido em Python para simulação de orçamento de locação de imóveis. A aplicação permite ao usuário selecionar o tipo de imóvel, adicionar melhorias, calcular valores e gerar um arquivo com os dados finais.
+Este projeto consiste em um sistema desenvolvido em Python para simulação de orçamento de locação de imóveis. A aplicação permite ao usuário selecionar o tipo de imóvel, adicionar melhorias, calcular valores e gerar um arquivo com os dados finais. (PARA CONSULTAR O PROJETO VERIFIQUE A BRANCH MASTER)
 
 ---
 
